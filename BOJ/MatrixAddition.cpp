@@ -1,4 +1,4 @@
-// Çà·Ä µ¡¼À
+// Ã‡Ã Â·Ã„ ÂµÂ¡Â¼Ã€
 #include <iostream>
 #define MAX 100
 
