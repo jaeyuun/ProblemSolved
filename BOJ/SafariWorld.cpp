@@ -1,4 +1,4 @@
-// »çÆÄ¸®¿ùµå
+// Â»Ã§Ã†Ã„Â¸Â®Â¿Ã¹ÂµÃ¥
 #include <iostream>
 #include <cmath>
 
